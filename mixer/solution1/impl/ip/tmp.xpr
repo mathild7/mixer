@@ -3,10 +3,10 @@
 <!--                                                         -->
 <!-- Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="20" Path="/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer/mixer/solution1/impl/ip/tmp.xpr">
+<Project Version="7" Minor="20" Path="/root/repo/new/ECE1373_GhostSynth/modules/mixer/mixer/solution1/impl/ip/tmp.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
-    <Option Name="Id" Val="1c3bedd9a5534536ae9f4f5286d36128"/>
+    <Option Name="Id" Val="323db005dac2457c830e3111b3b1247d"/>
     <Option Name="Part" Val="xc7vx485tffg1157-1"/>
     <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
     <Option Name="CompiledLibDirXSim" Val=""/>
@@ -52,7 +52,7 @@
   <FileSets Version="1" Minor="31">
     <FileSet Name="sources_1" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
       <Filter Type="Srcs"/>
-      <File Path="$PSRCDIR/sources_1/ip/mixer_ap_fcmp_0_no_dsp_32/mixer_ap_fcmp_0_no_dsp_32.xci">
+      <File Path="$PSRCDIR/sources_1/ip/mixer_ap_fadd_3_full_dsp_32/mixer_ap_fadd_3_full_dsp_32.xci">
         <FileInfo>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
@@ -66,7 +66,7 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PSRCDIR/sources_1/ip/mixer_ap_fadd_3_full_dsp_32/mixer_ap_fadd_3_full_dsp_32.xci">
+      <File Path="$PSRCDIR/sources_1/ip/mixer_ap_fcmp_0_no_dsp_32/mixer_ap_fcmp_0_no_dsp_32.xci">
         <FileInfo>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>

@@ -1217,7 +1217,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
     <spirit:fileSet>
       <spirit:name>xilinx_verilogsynthesis_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>hdl/ip/mixer_ap_fmul_2_max_dsp_32.vhd</spirit:name>
+        <spirit:name>hdl/ip/mixer_ap_fcmp_0_no_dsp_32.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1225,7 +1225,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/ip/mixer_ap_fcmp_0_no_dsp_32.vhd</spirit:name>
+        <spirit:name>hdl/ip/mixer_ap_fmul_2_max_dsp_32.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1234,7 +1234,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:userFileType>USED_IN_out_of_context</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/mixer_fadd_32ns_3bkb.v</spirit:name>
+        <spirit:name>hdl/verilog/mixer_fmul_32ns_3cud.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1242,7 +1242,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/mixer_fmul_32ns_3cud.v</spirit:name>
+        <spirit:name>hdl/verilog/mixer_fadd_32ns_3bkb.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1250,11 +1250,11 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/mixer_CTRL_BUS_s_axi.v</spirit:name>
+        <spirit:name>hdl/verilog/mixer.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/mixer.v</spirit:name>
+        <spirit:name>hdl/verilog/mixer_CTRL_BUS_s_axi.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
       </spirit:file>
     </spirit:fileSet>
@@ -1271,7 +1271,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
     <spirit:fileSet>
       <spirit:name>xilinx_verilogbehavioralsimulation_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>hdl/verilog/mixer_fadd_32ns_3bkb.v</spirit:name>
+        <spirit:name>hdl/verilog/mixer_fmul_32ns_3cud.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1281,7 +1281,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/mixer_fmul_32ns_3cud.v</spirit:name>
+        <spirit:name>hdl/verilog/mixer_fadd_32ns_3bkb.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1291,17 +1291,17 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/verilog/mixer_CTRL_BUS_s_axi.v</spirit:name>
-        <spirit:fileType>verilogSource</spirit:fileType>
-        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
-      </spirit:file>
-      <spirit:file>
         <spirit:name>hdl/verilog/mixer.v</spirit:name>
         <spirit:fileType>verilogSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/ip/mixer_ap_fmul_2_max_dsp_32.vhd</spirit:name>
+        <spirit:name>hdl/verilog/mixer_CTRL_BUS_s_axi.v</spirit:name>
+        <spirit:fileType>verilogSource</spirit:fileType>
+        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>hdl/ip/mixer_ap_fcmp_0_no_dsp_32.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1311,7 +1311,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/ip/mixer_ap_fcmp_0_no_dsp_32.vhd</spirit:name>
+        <spirit:name>hdl/ip/mixer_ap_fmul_2_max_dsp_32.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1329,7 +1329,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
     <spirit:fileSet>
       <spirit:name>xilinx_vhdlsynthesis_view_fileset</spirit:name>
       <spirit:file>
-        <spirit:name>hdl/ip/mixer_ap_fmul_2_max_dsp_32.vhd</spirit:name>
+        <spirit:name>hdl/ip/mixer_ap_fcmp_0_no_dsp_32.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1337,7 +1337,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/ip/mixer_ap_fcmp_0_no_dsp_32.vhd</spirit:name>
+        <spirit:name>hdl/ip/mixer_ap_fmul_2_max_dsp_32.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1350,15 +1350,15 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/vhdl/mixer_fadd_32ns_3bkb.vhd</spirit:name>
-        <spirit:fileType>vhdlSource</spirit:fileType>
-      </spirit:file>
-      <spirit:file>
         <spirit:name>hdl/vhdl/mixer_fcmp_32ns_3dEe.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
         <spirit:name>hdl/vhdl/mixer.vhd</spirit:name>
+        <spirit:fileType>vhdlSource</spirit:fileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>hdl/vhdl/mixer_fadd_32ns_3bkb.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
       </spirit:file>
       <spirit:file>
@@ -1389,17 +1389,17 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/vhdl/mixer_fadd_32ns_3bkb.vhd</spirit:name>
-        <spirit:fileType>vhdlSource</spirit:fileType>
-        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
-      </spirit:file>
-      <spirit:file>
         <spirit:name>hdl/vhdl/mixer_fcmp_32ns_3dEe.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
         <spirit:name>hdl/vhdl/mixer.vhd</spirit:name>
+        <spirit:fileType>vhdlSource</spirit:fileType>
+        <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
+      </spirit:file>
+      <spirit:file>
+        <spirit:name>hdl/vhdl/mixer_fadd_32ns_3bkb.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1414,7 +1414,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/ip/mixer_ap_fmul_2_max_dsp_32.vhd</spirit:name>
+        <spirit:name>hdl/ip/mixer_ap_fcmp_0_no_dsp_32.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1424,7 +1424,7 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
       <spirit:file>
-        <spirit:name>hdl/ip/mixer_ap_fcmp_0_no_dsp_32.vhd</spirit:name>
+        <spirit:name>hdl/ip/mixer_ap_fmul_2_max_dsp_32.vhd</spirit:name>
         <spirit:fileType>vhdlSource</spirit:fileType>
         <spirit:userFileType>USED_IN_ipstatic</spirit:userFileType>
       </spirit:file>
@@ -1550,8 +1550,8 @@ y {} format long minimum {} maximum {}} value 32} bitoffset {attribs {resolve_ty
       </xilinx:taxonomies>
       <xilinx:displayName>Mixer</xilinx:displayName>
       <xilinx:definitionSource>HLS</xilinx:definitionSource>
-      <xilinx:coreRevision>1904232353</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2019-04-23T23:54:15Z</xilinx:coreCreationDateTime>
+      <xilinx:coreRevision>1904292145</xilinx:coreRevision>
+      <xilinx:coreCreationDateTime>2019-04-29T21:45:28Z</xilinx:coreCreationDateTime>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
       <xilinx:xilinxVersion>2017.2</xilinx:xilinxVersion>

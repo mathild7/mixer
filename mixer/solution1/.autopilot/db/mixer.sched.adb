@@ -426,14 +426,14 @@
 						<id>36</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>43</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item class_id="11" tracking_level="0" version="0">
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second class_id="12" tracking_level="0" version="0">
 									<count>1</count>
 									<item_version>0</item_version>

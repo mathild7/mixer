@@ -1,4 +1,4 @@
-; ModuleID = '/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer/mixer/solution1/.autopilot/db/a.o.bc'
+; ModuleID = '/root/repo/new/ECE1373_GhostSynth/modules/mixer/mixer/solution1/.autopilot/db/a.o.bc'
 target datalayout = "e-p:64:64:64-i1:8:8-i8:8:8-i16:16:16-i32:32:32-i64:64:64-f32:32:32-f64:64:64-v64:64:64-v128:128:128-a0:0:64-s0:64:64-f80:128:128-n8:16:32:64-S128"
 target triple = "x86_64-unknown-linux-gnu"
 
@@ -70,12 +70,12 @@ define void @_Z5mixerRN3hls6streamIfEES2_S2_S2_S2_ffff(%"class.hls::stream"* %in
   %24 = bitcast [4 x float]* %tmp to i8*, !dbg !127 ; [#uses=1 type=i8*] [debug line = 28:41]
   call void @llvm.memset.p0i8.i64(i8* %24, i8 0, i64 16, i32 16, i1 false), !dbg !127 ; [debug line = 28:41]
   %25 = load float* %6, align 4, !dbg !128        ; [#uses=1 type=float] [debug line = 29:2]
-  %26 = fcmp olt float %25, 0xBFA99999A0000000, !dbg !128 ; [#uses=1 type=i1] [debug line = 29:2]
+  %26 = fcmp olt float %25, 0xBF747AE140000000, !dbg !128 ; [#uses=1 type=i1] [debug line = 29:2]
   br i1 %26, label %30, label %27, !dbg !128      ; [debug line = 29:2]
 
 ; <label>:27                                      ; preds = %0
   %28 = load float* %6, align 4, !dbg !128        ; [#uses=1 type=float] [debug line = 29:2]
-  %29 = fcmp ogt float %28, 0x3FA99999A0000000, !dbg !128 ; [#uses=1 type=i1] [debug line = 29:2]
+  %29 = fcmp ogt float %28, 0x3F747AE140000000, !dbg !128 ; [#uses=1 type=i1] [debug line = 29:2]
   br i1 %29, label %30, label %33, !dbg !128      ; [debug line = 29:2]
 
 ; <label>:30                                      ; preds = %27, %0
@@ -86,12 +86,12 @@ define void @_Z5mixerRN3hls6streamIfEES2_S2_S2_S2_ffff(%"class.hls::stream"* %in
 
 ; <label>:33                                      ; preds = %30, %27
   %34 = load float* %7, align 4, !dbg !132        ; [#uses=1 type=float] [debug line = 32:2]
-  %35 = fcmp olt float %34, 0xBFA99999A0000000, !dbg !132 ; [#uses=1 type=i1] [debug line = 32:2]
+  %35 = fcmp olt float %34, 0xBF747AE140000000, !dbg !132 ; [#uses=1 type=i1] [debug line = 32:2]
   br i1 %35, label %39, label %36, !dbg !132      ; [debug line = 32:2]
 
 ; <label>:36                                      ; preds = %33
   %37 = load float* %7, align 4, !dbg !132        ; [#uses=1 type=float] [debug line = 32:2]
-  %38 = fcmp ogt float %37, 0x3FA99999A0000000, !dbg !132 ; [#uses=1 type=i1] [debug line = 32:2]
+  %38 = fcmp ogt float %37, 0x3F747AE140000000, !dbg !132 ; [#uses=1 type=i1] [debug line = 32:2]
   br i1 %38, label %39, label %42, !dbg !132      ; [debug line = 32:2]
 
 ; <label>:39                                      ; preds = %36, %33
@@ -102,12 +102,12 @@ define void @_Z5mixerRN3hls6streamIfEES2_S2_S2_S2_ffff(%"class.hls::stream"* %in
 
 ; <label>:42                                      ; preds = %39, %36
   %43 = load float* %8, align 4, !dbg !136        ; [#uses=1 type=float] [debug line = 35:2]
-  %44 = fcmp olt float %43, 0xBFA99999A0000000, !dbg !136 ; [#uses=1 type=i1] [debug line = 35:2]
+  %44 = fcmp olt float %43, 0xBF747AE140000000, !dbg !136 ; [#uses=1 type=i1] [debug line = 35:2]
   br i1 %44, label %48, label %45, !dbg !136      ; [debug line = 35:2]
 
 ; <label>:45                                      ; preds = %42
   %46 = load float* %8, align 4, !dbg !136        ; [#uses=1 type=float] [debug line = 35:2]
-  %47 = fcmp ogt float %46, 0x3FA99999A0000000, !dbg !136 ; [#uses=1 type=i1] [debug line = 35:2]
+  %47 = fcmp ogt float %46, 0x3F747AE140000000, !dbg !136 ; [#uses=1 type=i1] [debug line = 35:2]
   br i1 %47, label %48, label %51, !dbg !136      ; [debug line = 35:2]
 
 ; <label>:48                                      ; preds = %45, %42
@@ -118,12 +118,12 @@ define void @_Z5mixerRN3hls6streamIfEES2_S2_S2_S2_ffff(%"class.hls::stream"* %in
 
 ; <label>:51                                      ; preds = %48, %45
   %52 = load float* %9, align 4, !dbg !140        ; [#uses=1 type=float] [debug line = 38:2]
-  %53 = fcmp olt float %52, 0xBFA99999A0000000, !dbg !140 ; [#uses=1 type=i1] [debug line = 38:2]
+  %53 = fcmp olt float %52, 0xBF747AE140000000, !dbg !140 ; [#uses=1 type=i1] [debug line = 38:2]
   br i1 %53, label %57, label %54, !dbg !140      ; [debug line = 38:2]
 
 ; <label>:54                                      ; preds = %51
   %55 = load float* %9, align 4, !dbg !140        ; [#uses=1 type=float] [debug line = 38:2]
-  %56 = fcmp ogt float %55, 0x3FA99999A0000000, !dbg !140 ; [#uses=1 type=i1] [debug line = 38:2]
+  %56 = fcmp ogt float %55, 0x3F747AE140000000, !dbg !140 ; [#uses=1 type=i1] [debug line = 38:2]
   br i1 %56, label %57, label %60, !dbg !140      ; [debug line = 38:2]
 
 ; <label>:57                                      ; preds = %54, %51
@@ -246,19 +246,19 @@ declare void @_ssdm_StreamRead(...) nounwind
 !opencl.kernels = !{!72, !79, !85, !87, !90}
 !hls.encrypted.func = !{}
 
-!0 = metadata !{i32 786449, i32 0, i32 4, metadata !"/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer/mixer/solution1/.autopilot/db/mixer.pragma.2.cpp", metadata !"/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer", metadata !"clang version 3.1 ", i1 true, i1 false, metadata !"", i32 0, metadata !1, metadata !1, metadata !3, metadata !1} ; [ DW_TAG_compile_unit ]
+!0 = metadata !{i32 786449, i32 0, i32 4, metadata !"/root/repo/new/ECE1373_GhostSynth/modules/mixer/mixer/solution1/.autopilot/db/mixer.pragma.2.cpp", metadata !"/root/repo/new/ECE1373_GhostSynth/modules/mixer", metadata !"clang version 3.1 ", i1 true, i1 false, metadata !"", i32 0, metadata !1, metadata !1, metadata !3, metadata !1} ; [ DW_TAG_compile_unit ]
 !1 = metadata !{metadata !2}
 !2 = metadata !{i32 0}
 !3 = metadata !{metadata !4}
 !4 = metadata !{metadata !5, metadata !68, metadata !69, metadata !70, metadata !71}
 !5 = metadata !{i32 786478, i32 0, metadata !6, metadata !"mixer", metadata !"mixer", metadata !"_Z5mixerRN3hls6streamIfEES2_S2_S2_S2_ffff", metadata !6, i32 5, metadata !7, i1 false, i1 true, i32 0, i32 0, null, i32 256, i1 false, void (%"class.hls::stream"*, %"class.hls::stream"*, %"class.hls::stream"*, %"class.hls::stream"*, %"class.hls::stream"*, float, float, float, float)* @_Z5mixerRN3hls6streamIfEES2_S2_S2_S2_ffff, null, null, metadata !20, i32 15} ; [ DW_TAG_subprogram ]
-!6 = metadata !{i32 786473, metadata !"mixer.cpp", metadata !"/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer", null} ; [ DW_TAG_file_type ]
+!6 = metadata !{i32 786473, metadata !"mixer.cpp", metadata !"/root/repo/new/ECE1373_GhostSynth/modules/mixer", null} ; [ DW_TAG_file_type ]
 !7 = metadata !{i32 786453, i32 0, metadata !"", i32 0, i32 0, i64 0, i64 0, i64 0, i32 0, null, metadata !8, i32 0, i32 0} ; [ DW_TAG_subroutine_type ]
 !8 = metadata !{null, metadata !9, metadata !9, metadata !9, metadata !9, metadata !9, metadata !15, metadata !15, metadata !15, metadata !15}
 !9 = metadata !{i32 786448, null, null, null, i32 0, i64 0, i64 0, i64 0, i32 0, metadata !10} ; [ DW_TAG_reference_type ]
 !10 = metadata !{i32 786434, metadata !11, metadata !"stream<float>", metadata !12, i32 79, i64 32, i64 32, i32 0, i32 0, null, metadata !13, i32 0, null, metadata !66} ; [ DW_TAG_class_type ]
 !11 = metadata !{i32 786489, null, metadata !"hls", metadata !12, i32 69} ; [ DW_TAG_namespace ]
-!12 = metadata !{i32 786473, metadata !"/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/hls_stream.h", metadata !"/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer", null} ; [ DW_TAG_file_type ]
+!12 = metadata !{i32 786473, metadata !"/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/hls_stream.h", metadata !"/root/repo/new/ECE1373_GhostSynth/modules/mixer", null} ; [ DW_TAG_file_type ]
 !13 = metadata !{metadata !14, metadata !16, metadata !22, metadata !28, metadata !33, metadata !36, metadata !40, metadata !45, metadata !50, metadata !51, metadata !52, metadata !55, metadata !58, metadata !59, metadata !62}
 !14 = metadata !{i32 786445, metadata !10, metadata !"V", metadata !12, i32 163, i64 32, i64 32, i64 0, i32 0, metadata !15} ; [ DW_TAG_member ]
 !15 = metadata !{i32 786468, null, metadata !"float", null, i32 0, i64 32, i64 32, i64 0, i32 0, i32 4} ; [ DW_TAG_base_type ]
@@ -376,19 +376,19 @@ declare void @_ssdm_StreamRead(...) nounwind
 !127 = metadata !{i32 28, i32 41, metadata !111, null}
 !128 = metadata !{i32 29, i32 2, metadata !111, null}
 !129 = metadata !{i32 30, i32 3, metadata !130, null}
-!130 = metadata !{i32 786443, metadata !111, i32 29, i32 37, metadata !6, i32 1} ; [ DW_TAG_lexical_block ]
+!130 = metadata !{i32 786443, metadata !111, i32 29, i32 39, metadata !6, i32 1} ; [ DW_TAG_lexical_block ]
 !131 = metadata !{i32 31, i32 2, metadata !130, null}
 !132 = metadata !{i32 32, i32 2, metadata !111, null}
 !133 = metadata !{i32 33, i32 3, metadata !134, null}
-!134 = metadata !{i32 786443, metadata !111, i32 32, i32 37, metadata !6, i32 2} ; [ DW_TAG_lexical_block ]
+!134 = metadata !{i32 786443, metadata !111, i32 32, i32 39, metadata !6, i32 2} ; [ DW_TAG_lexical_block ]
 !135 = metadata !{i32 34, i32 2, metadata !134, null}
 !136 = metadata !{i32 35, i32 2, metadata !111, null}
 !137 = metadata !{i32 36, i32 3, metadata !138, null}
-!138 = metadata !{i32 786443, metadata !111, i32 35, i32 37, metadata !6, i32 3} ; [ DW_TAG_lexical_block ]
+!138 = metadata !{i32 786443, metadata !111, i32 35, i32 39, metadata !6, i32 3} ; [ DW_TAG_lexical_block ]
 !139 = metadata !{i32 37, i32 2, metadata !138, null}
 !140 = metadata !{i32 38, i32 2, metadata !111, null}
 !141 = metadata !{i32 39, i32 3, metadata !142, null}
-!142 = metadata !{i32 786443, metadata !111, i32 38, i32 37, metadata !6, i32 4} ; [ DW_TAG_lexical_block ]
+!142 = metadata !{i32 786443, metadata !111, i32 38, i32 39, metadata !6, i32 4} ; [ DW_TAG_lexical_block ]
 !143 = metadata !{i32 40, i32 2, metadata !142, null}
 !144 = metadata !{i32 42, i32 2, metadata !111, null}
 !145 = metadata !{i32 43, i32 1, metadata !111, null}

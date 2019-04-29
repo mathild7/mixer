@@ -1,5 +1,5 @@
-# 1 "/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer/mixer/solution1/.autopilot/db/mixer.pragma.1.cpp"
-# 1 "/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer/mixer/solution1/.autopilot/db/mixer.pragma.1.cpp" 1
+# 1 "/root/repo/new/ECE1373_GhostSynth/modules/mixer/mixer/solution1/.autopilot/db/mixer.pragma.1.cpp"
+# 1 "/root/repo/new/ECE1373_GhostSynth/modules/mixer/mixer/solution1/.autopilot/db/mixer.pragma.1.cpp" 1
 # 1 "<built-in>" 1
 # 1 "<built-in>" 3
 # 155 "<built-in>" 3
@@ -9,7 +9,7 @@
 
 
 
-# 1 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h" 1
+# 1 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h" 1
 /* autopilot_ssdm_op.h*/
 /*
 #-  (c) Copyright 2011-2017 Xilinx, Inc. All rights reserved.
@@ -62,10 +62,10 @@
  *
  * $Id$
  */
-# 145 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+# 145 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 /*#define AP_SPEC_ATTR __attribute__ ((pure))*/
 //adu: patched
-# 156 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+# 156 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 extern "C" {
 
     /****** SSDM Intrinsics: OPERATIONS ***/
@@ -195,14 +195,14 @@ extern "C" {
 
 
 }
-# 413 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+# 413 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 /*#define _ssdm_op_WaitUntil(X) while (!(X)) _ssdm_op_Wait(1);
 #define _ssdm_op_Delayed(X) X */
-# 427 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+# 427 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 // 67d7842dbbe25473c3c32b93c0da8047785f30d78e8a024de1b57352245f9689
 # 7 "<command line>" 2
 # 1 "<built-in>" 2
-# 1 "/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer/mixer/solution1/.autopilot/db/mixer.pragma.1.cpp" 2
+# 1 "/root/repo/new/ECE1373_GhostSynth/modules/mixer/mixer/solution1/.autopilot/db/mixer.pragma.1.cpp" 2
 # 1 "mixer.cpp"
 # 1 "mixer.cpp" 1
 # 1 "<built-in>" 1
@@ -214,7 +214,7 @@ extern "C" {
 
 
 
-# 1 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h" 1
+# 1 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h" 1
 /* autopilot_ssdm_op.h*/
 /*
 #-  (c) Copyright 2011-2017 Xilinx, Inc. All rights reserved.
@@ -267,10 +267,10 @@ extern "C" {
  *
  * $Id$
  */
-# 145 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+# 145 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 /*#define AP_SPEC_ATTR __attribute__ ((pure))*/
 //adu: patched
-# 156 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+# 156 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 extern "C" {
 
     /****** SSDM Intrinsics: OPERATIONS ***/
@@ -400,15 +400,15 @@ extern "C" {
 
 
 }
-# 413 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+# 413 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 /*#define _ssdm_op_WaitUntil(X) while (!(X)) _ssdm_op_Wait(1);
 #define _ssdm_op_Delayed(X) X */
-# 427 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
+# 427 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_ssdm_op.h"
 // 67d7842dbbe25473c3c32b93c0da8047785f30d78e8a024de1b57352245f9689
 # 7 "<command line>" 2
 # 1 "<built-in>" 2
 # 1 "mixer.cpp" 2
-# 1 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/hls_stream.h" 1
+# 1 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/hls_stream.h" 1
 /* -*- c++ -*-*/
 /*
 #-  (c) Copyright 2011-2017 Xilinx, Inc. All rights reserved.
@@ -476,7 +476,7 @@ extern "C" {
 
 
 
-# 1 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_enum.h" 1
+# 1 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/etc/autopilot_enum.h" 1
 /*
 #-  (c) Copyright 2011-2017 Xilinx, Inc. All rights reserved.
 #-
@@ -611,7 +611,7 @@ enum SsdmRegionTypes {
 
 
 // 67d7842dbbe25473c3c32b93c0da8047785f30d78e8a024de1b57352245f9689
-# 67 "/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/hls_stream.h" 2
+# 67 "/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/hls_stream.h" 2
 
 
 namespace hls {
@@ -745,16 +745,16 @@ _ssdm_op_SpecDataflowPipeline(-1, "");
 _ssdm_op_SpecInterface(0, "ap_ctrl_none", 0, 0, "", 0, 0, "", "", "", 0, 0, 0, 0, "", "");
 
  float tmp[4] = {0.0f, 0.0f, 0.0f, 0.0f};
- if (lev0 < -0.05f || lev0 > 0.05f) {
+ if (lev0 < -0.005f || lev0 > 0.005f) {
   in0 >> tmp[0];
  }
- if (lev1 < -0.05f || lev1 > 0.05f) {
+ if (lev1 < -0.005f || lev1 > 0.005f) {
   in1 >> tmp[1];
  }
- if (lev2 < -0.05f || lev2 > 0.05f) {
+ if (lev2 < -0.005f || lev2 > 0.005f) {
   in2 >> tmp[2];
  }
- if (lev3 < -0.05f || lev3 > 0.05f) {
+ if (lev3 < -0.005f || lev3 > 0.005f) {
   in3 >> tmp[3];
  }
 

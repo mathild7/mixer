@@ -1,4 +1,4 @@
-; ModuleID = '/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer/mixer/solution1/.autopilot/db/a.o.3.bc'
+; ModuleID = '/root/repo/new/ECE1373_GhostSynth/modules/mixer/mixer/solution1/.autopilot/db/a.o.3.bc'
 target datalayout = "e-p:64:64:64-i1:8:8-i8:8:8-i16:16:16-i32:32:32-i64:64:64-f32:32:32-f64:64:64-v64:64:64-v128:128:128-a0:0:64-s0:64:64-f80:128:128-n8:16:32:64-S128"
 target triple = "x86_64-unknown-linux-gnu"
 
@@ -140,8 +140,8 @@ newFuncRoot:
   %notlhs = icmp ne i8 %tmp_5, -1                 ; [#uses=1 type=i1]
   %notrhs = icmp eq i23 %tmp, 0                   ; [#uses=1 type=i1]
   %tmp_8 = or i1 %notrhs, %notlhs                 ; [#uses=1 type=i1]
-  %tmp_9 = fcmp olt float %lev0_read, 0xBFA99999A0000000, !dbg !162 ; [#uses=1 type=i1] [debug line = 29:2]
-  %tmp_1 = fcmp ogt float %lev0_read, 0x3FA99999A0000000, !dbg !162 ; [#uses=1 type=i1] [debug line = 29:2]
+  %tmp_9 = fcmp olt float %lev0_read, 0xBF747AE140000000, !dbg !162 ; [#uses=1 type=i1] [debug line = 29:2]
+  %tmp_1 = fcmp ogt float %lev0_read, 0x3F747AE140000000, !dbg !162 ; [#uses=1 type=i1] [debug line = 29:2]
   %tmp_2 = or i1 %tmp_9, %tmp_1, !dbg !162        ; [#uses=1 type=i1] [debug line = 29:2]
   %or_cond = and i1 %tmp_8, %tmp_2, !dbg !162     ; [#uses=1 type=i1] [debug line = 29:2]
   br i1 %or_cond, label %0, label %._crit_edge, !dbg !162 ; [debug line = 29:2]
@@ -161,8 +161,8 @@ newFuncRoot:
   %notlhs2 = icmp ne i8 %tmp_4, -1                ; [#uses=1 type=i1]
   %notrhs2 = icmp eq i23 %tmp_6, 0                ; [#uses=1 type=i1]
   %tmp_11 = or i1 %notrhs2, %notlhs2              ; [#uses=1 type=i1]
-  %tmp_12 = fcmp olt float %lev1_read, 0xBFA99999A0000000, !dbg !181 ; [#uses=1 type=i1] [debug line = 32:2]
-  %tmp_13 = fcmp ogt float %lev1_read, 0x3FA99999A0000000, !dbg !181 ; [#uses=1 type=i1] [debug line = 32:2]
+  %tmp_12 = fcmp olt float %lev1_read, 0xBF747AE140000000, !dbg !181 ; [#uses=1 type=i1] [debug line = 32:2]
+  %tmp_13 = fcmp ogt float %lev1_read, 0x3F747AE140000000, !dbg !181 ; [#uses=1 type=i1] [debug line = 32:2]
   %tmp_21 = or i1 %tmp_12, %tmp_13, !dbg !181     ; [#uses=1 type=i1] [debug line = 32:2]
   %or_cond1 = and i1 %tmp_11, %tmp_21, !dbg !181  ; [#uses=1 type=i1] [debug line = 32:2]
   br i1 %or_cond1, label %1, label %._crit_edge17, !dbg !181 ; [debug line = 32:2]
@@ -182,8 +182,8 @@ newFuncRoot:
   %notlhs4 = icmp ne i8 %tmp_23, -1               ; [#uses=1 type=i1]
   %notrhs4 = icmp eq i23 %tmp_24, 0               ; [#uses=1 type=i1]
   %tmp_25 = or i1 %notrhs4, %notlhs4              ; [#uses=1 type=i1]
-  %tmp_26 = fcmp olt float %lev2_read, 0xBFA99999A0000000, !dbg !189 ; [#uses=1 type=i1] [debug line = 35:2]
-  %tmp_27 = fcmp ogt float %lev2_read, 0x3FA99999A0000000, !dbg !189 ; [#uses=1 type=i1] [debug line = 35:2]
+  %tmp_26 = fcmp olt float %lev2_read, 0xBF747AE140000000, !dbg !189 ; [#uses=1 type=i1] [debug line = 35:2]
+  %tmp_27 = fcmp ogt float %lev2_read, 0x3F747AE140000000, !dbg !189 ; [#uses=1 type=i1] [debug line = 35:2]
   %tmp_28 = or i1 %tmp_26, %tmp_27, !dbg !189     ; [#uses=1 type=i1] [debug line = 35:2]
   %or_cond2 = and i1 %tmp_25, %tmp_28, !dbg !189  ; [#uses=1 type=i1] [debug line = 35:2]
   br i1 %or_cond2, label %2, label %._crit_edge18, !dbg !189 ; [debug line = 35:2]
@@ -203,8 +203,8 @@ newFuncRoot:
   %notlhs6 = icmp ne i8 %tmp_30, -1               ; [#uses=1 type=i1]
   %notrhs6 = icmp eq i23 %tmp_31, 0               ; [#uses=1 type=i1]
   %tmp_32 = or i1 %notrhs6, %notlhs6              ; [#uses=1 type=i1]
-  %tmp_33 = fcmp olt float %lev3_read, 0xBFA99999A0000000, !dbg !197 ; [#uses=1 type=i1] [debug line = 38:2]
-  %tmp_34 = fcmp ogt float %lev3_read, 0x3FA99999A0000000, !dbg !197 ; [#uses=1 type=i1] [debug line = 38:2]
+  %tmp_33 = fcmp olt float %lev3_read, 0xBF747AE140000000, !dbg !197 ; [#uses=1 type=i1] [debug line = 38:2]
+  %tmp_34 = fcmp ogt float %lev3_read, 0x3F747AE140000000, !dbg !197 ; [#uses=1 type=i1] [debug line = 38:2]
   %tmp_35 = or i1 %tmp_33, %tmp_34, !dbg !197     ; [#uses=1 type=i1] [debug line = 38:2]
   %or_cond3 = and i1 %tmp_32, %tmp_35, !dbg !197  ; [#uses=1 type=i1] [debug line = 38:2]
   br i1 %or_cond3, label %3, label %._crit_edge19, !dbg !197 ; [debug line = 38:2]
@@ -259,13 +259,13 @@ newFuncRoot:
 !20 = metadata !{i32 25, i32 1, metadata !21, null}
 !21 = metadata !{i32 786443, metadata !22, i32 15, i32 3, metadata !23, i32 0} ; [ DW_TAG_lexical_block ]
 !22 = metadata !{i32 786478, i32 0, metadata !23, metadata !"mixer", metadata !"mixer", metadata !"_Z5mixerRN3hls6streamIfEES2_S2_S2_S2_ffff", metadata !23, i32 5, metadata !24, i1 false, i1 true, i32 0, i32 0, null, i32 256, i1 false, null, null, null, metadata !37, i32 15} ; [ DW_TAG_subprogram ]
-!23 = metadata !{i32 786473, metadata !"mixer.cpp", metadata !"/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer", null} ; [ DW_TAG_file_type ]
+!23 = metadata !{i32 786473, metadata !"mixer.cpp", metadata !"/root/repo/new/ECE1373_GhostSynth/modules/mixer", null} ; [ DW_TAG_file_type ]
 !24 = metadata !{i32 786453, i32 0, metadata !"", i32 0, i32 0, i64 0, i64 0, i64 0, i32 0, null, metadata !25, i32 0, i32 0} ; [ DW_TAG_subroutine_type ]
 !25 = metadata !{null, metadata !26, metadata !26, metadata !26, metadata !26, metadata !26, metadata !32, metadata !32, metadata !32, metadata !32}
 !26 = metadata !{i32 786448, null, null, null, i32 0, i64 0, i64 0, i64 0, i32 0, metadata !27} ; [ DW_TAG_reference_type ]
 !27 = metadata !{i32 786434, metadata !28, metadata !"stream<float>", metadata !29, i32 79, i64 32, i64 32, i32 0, i32 0, null, metadata !30, i32 0, null, metadata !83} ; [ DW_TAG_class_type ]
 !28 = metadata !{i32 786489, null, metadata !"hls", metadata !29, i32 69} ; [ DW_TAG_namespace ]
-!29 = metadata !{i32 786473, metadata !"/opt/Xilinx_2017_2/Vivado_HLS/2017.2/common/technology/autopilot/hls_stream.h", metadata !"/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer", null} ; [ DW_TAG_file_type ]
+!29 = metadata !{i32 786473, metadata !"/opt/Xilinx/Vivado_HLS/2017.2/common/technology/autopilot/hls_stream.h", metadata !"/root/repo/new/ECE1373_GhostSynth/modules/mixer", null} ; [ DW_TAG_file_type ]
 !30 = metadata !{metadata !31, metadata !33, metadata !39, metadata !45, metadata !50, metadata !53, metadata !57, metadata !62, metadata !67, metadata !68, metadata !69, metadata !72, metadata !75, metadata !76, metadata !79}
 !31 = metadata !{i32 786445, metadata !27, metadata !"V", metadata !29, i32 163, i64 32, i64 32, i64 0, i32 0, metadata !32} ; [ DW_TAG_member ]
 !32 = metadata !{i32 786468, null, metadata !"float", null, i32 0, i64 32, i64 32, i64 0, i32 0, i32 4} ; [ DW_TAG_base_type ]
@@ -406,7 +406,7 @@ newFuncRoot:
 !167 = metadata !{i32 786447, null, metadata !"", null, i32 0, i64 64, i64 64, i64 0, i32 0, metadata !146} ; [ DW_TAG_pointer_type ]
 !168 = metadata !{i32 101, i32 48, metadata !165, metadata !169}
 !169 = metadata !{i32 30, i32 3, metadata !170, null}
-!170 = metadata !{i32 786443, metadata !21, i32 29, i32 37, metadata !23, i32 1} ; [ DW_TAG_lexical_block ]
+!170 = metadata !{i32 786443, metadata !21, i32 29, i32 39, metadata !23, i32 1} ; [ DW_TAG_lexical_block ]
 !171 = metadata !{i32 790531, metadata !172, metadata !"stream<float>.V", null, i32 123, metadata !167, i32 0, i32 0} ; [ DW_TAG_arg_variable_field ]
 !172 = metadata !{i32 786689, metadata !173, metadata !"this", metadata !29, i32 16777339, metadata !166, i32 64, i32 0} ; [ DW_TAG_arg_variable ]
 !173 = metadata !{i32 786478, i32 0, metadata !28, metadata !"read", metadata !"read", metadata !"_ZN3hls6streamIfE4readERf", metadata !29, i32 123, metadata !54, i1 false, i1 true, i32 0, i32 0, null, i32 256, i1 false, null, null, metadata !68, metadata !37, i32 123} ; [ DW_TAG_subprogram ]
@@ -420,7 +420,7 @@ newFuncRoot:
 !181 = metadata !{i32 32, i32 2, metadata !21, null}
 !182 = metadata !{i32 101, i32 48, metadata !165, metadata !183}
 !183 = metadata !{i32 33, i32 3, metadata !184, null}
-!184 = metadata !{i32 786443, metadata !21, i32 32, i32 37, metadata !23, i32 2} ; [ DW_TAG_lexical_block ]
+!184 = metadata !{i32 786443, metadata !21, i32 32, i32 39, metadata !23, i32 2} ; [ DW_TAG_lexical_block ]
 !185 = metadata !{i32 123, i32 48, metadata !173, metadata !186}
 !186 = metadata !{i32 102, i32 9, metadata !176, metadata !183}
 !187 = metadata !{i32 125, i32 9, metadata !178, metadata !186}
@@ -428,7 +428,7 @@ newFuncRoot:
 !189 = metadata !{i32 35, i32 2, metadata !21, null}
 !190 = metadata !{i32 101, i32 48, metadata !165, metadata !191}
 !191 = metadata !{i32 36, i32 3, metadata !192, null}
-!192 = metadata !{i32 786443, metadata !21, i32 35, i32 37, metadata !23, i32 3} ; [ DW_TAG_lexical_block ]
+!192 = metadata !{i32 786443, metadata !21, i32 35, i32 39, metadata !23, i32 3} ; [ DW_TAG_lexical_block ]
 !193 = metadata !{i32 123, i32 48, metadata !173, metadata !194}
 !194 = metadata !{i32 102, i32 9, metadata !176, metadata !191}
 !195 = metadata !{i32 125, i32 9, metadata !178, metadata !194}
@@ -436,7 +436,7 @@ newFuncRoot:
 !197 = metadata !{i32 38, i32 2, metadata !21, null}
 !198 = metadata !{i32 101, i32 48, metadata !165, metadata !199}
 !199 = metadata !{i32 39, i32 3, metadata !200, null}
-!200 = metadata !{i32 786443, metadata !21, i32 38, i32 37, metadata !23, i32 4} ; [ DW_TAG_lexical_block ]
+!200 = metadata !{i32 786443, metadata !21, i32 38, i32 39, metadata !23, i32 4} ; [ DW_TAG_lexical_block ]
 !201 = metadata !{i32 123, i32 48, metadata !173, metadata !202}
 !202 = metadata !{i32 102, i32 9, metadata !176, metadata !199}
 !203 = metadata !{i32 125, i32 9, metadata !178, metadata !202}

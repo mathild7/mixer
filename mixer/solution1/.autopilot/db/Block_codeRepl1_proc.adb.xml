@@ -166,7 +166,7 @@ newFuncRoot:8  %lev0_read = call float @_ssdm_op_Read.ap_auto.float(float %lev0)
 
 <Node id="25" bw="1" op_0_bw="32" op_1_bw="32">
 <![CDATA[
-newFuncRoot:15  %tmp_9 = fcmp olt float %lev0_read, 0xBFA99999A0000000
+newFuncRoot:15  %tmp_9 = fcmp olt float %lev0_read, 0xBF747AE140000000
 
 ]]></Node>
 <StgValue><ssdm name="tmp_9"/></StgValue>
@@ -181,7 +181,7 @@ newFuncRoot:15  %tmp_9 = fcmp olt float %lev0_read, 0xBFA99999A0000000
 
 <Node id="26" bw="1" op_0_bw="32" op_1_bw="32">
 <![CDATA[
-newFuncRoot:16  %tmp_1 = fcmp ogt float %lev0_read, 0x3FA99999A0000000
+newFuncRoot:16  %tmp_1 = fcmp ogt float %lev0_read, 0x3F747AE140000000
 
 ]]></Node>
 <StgValue><ssdm name="tmp_1"/></StgValue>
@@ -505,7 +505,7 @@ newFuncRoot:19  br i1 %or_cond, label %0, label %._crit_edge
 
 <Node id="41" bw="1" op_0_bw="32" op_1_bw="32">
 <![CDATA[
-._crit_edge:7  %tmp_12 = fcmp olt float %lev1_read, 0xBFA99999A0000000
+._crit_edge:7  %tmp_12 = fcmp olt float %lev1_read, 0xBF747AE140000000
 
 ]]></Node>
 <StgValue><ssdm name="tmp_12"/></StgValue>
@@ -520,7 +520,7 @@ newFuncRoot:19  br i1 %or_cond, label %0, label %._crit_edge
 
 <Node id="42" bw="1" op_0_bw="32" op_1_bw="32">
 <![CDATA[
-._crit_edge:8  %tmp_13 = fcmp ogt float %lev1_read, 0x3FA99999A0000000
+._crit_edge:8  %tmp_13 = fcmp ogt float %lev1_read, 0x3F747AE140000000
 
 ]]></Node>
 <StgValue><ssdm name="tmp_13"/></StgValue>
@@ -739,7 +739,7 @@ newFuncRoot:19  br i1 %or_cond, label %0, label %._crit_edge
 
 <Node id="57" bw="1" op_0_bw="32" op_1_bw="32">
 <![CDATA[
-._crit_edge17:7  %tmp_26 = fcmp olt float %lev2_read, 0xBFA99999A0000000
+._crit_edge17:7  %tmp_26 = fcmp olt float %lev2_read, 0xBF747AE140000000
 
 ]]></Node>
 <StgValue><ssdm name="tmp_26"/></StgValue>
@@ -754,7 +754,7 @@ newFuncRoot:19  br i1 %or_cond, label %0, label %._crit_edge
 
 <Node id="58" bw="1" op_0_bw="32" op_1_bw="32">
 <![CDATA[
-._crit_edge17:8  %tmp_27 = fcmp ogt float %lev2_read, 0x3FA99999A0000000
+._crit_edge17:8  %tmp_27 = fcmp ogt float %lev2_read, 0x3F747AE140000000
 
 ]]></Node>
 <StgValue><ssdm name="tmp_27"/></StgValue>
@@ -973,7 +973,7 @@ newFuncRoot:19  br i1 %or_cond, label %0, label %._crit_edge
 
 <Node id="73" bw="1" op_0_bw="32" op_1_bw="32">
 <![CDATA[
-._crit_edge18:7  %tmp_33 = fcmp olt float %lev3_read, 0xBFA99999A0000000
+._crit_edge18:7  %tmp_33 = fcmp olt float %lev3_read, 0xBF747AE140000000
 
 ]]></Node>
 <StgValue><ssdm name="tmp_33"/></StgValue>
@@ -988,7 +988,7 @@ newFuncRoot:19  br i1 %or_cond, label %0, label %._crit_edge
 
 <Node id="74" bw="1" op_0_bw="32" op_1_bw="32">
 <![CDATA[
-._crit_edge18:8  %tmp_34 = fcmp ogt float %lev3_read, 0x3FA99999A0000000
+._crit_edge18:8  %tmp_34 = fcmp ogt float %lev3_read, 0x3F747AE140000000
 
 ]]></Node>
 <StgValue><ssdm name="tmp_34"/></StgValue>

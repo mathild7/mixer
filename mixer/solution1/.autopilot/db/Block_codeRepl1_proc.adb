@@ -570,7 +570,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item class_id="11" tracking_level="0" version="0">
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second class_id="12" tracking_level="0" version="0">
                     <count>1</count>
                     <item_version>0</item_version>
@@ -613,7 +613,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -656,7 +656,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -699,7 +699,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -742,7 +742,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -786,7 +786,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -829,7 +829,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1076,7 +1076,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1119,7 +1119,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1162,7 +1162,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1205,7 +1205,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1248,7 +1248,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1292,7 +1292,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1335,7 +1335,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1582,7 +1582,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1625,7 +1625,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1668,7 +1668,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1711,7 +1711,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1754,7 +1754,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1798,7 +1798,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1841,7 +1841,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2088,7 +2088,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2131,7 +2131,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2174,7 +2174,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2217,7 +2217,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2260,7 +2260,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2304,7 +2304,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2347,7 +2347,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2420,7 +2420,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2463,7 +2463,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2506,7 +2506,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2549,7 +2549,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2592,7 +2592,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2635,7 +2635,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2678,7 +2678,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2721,7 +2721,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+                  <first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2895,7 +2895,7 @@
             <bitwidth>32</bitwidth>
           </Value>
           <const_type>1</const_type>
-          <content>-0.05</content>
+          <content>-0.005</content>
         </item>
         <item class_id_reference="16" object_id="_84">
           <Value>
@@ -2918,7 +2918,7 @@
             <bitwidth>32</bitwidth>
           </Value>
           <const_type>1</const_type>
-          <content>0.05</content>
+          <content>0.005</content>
         </item>
         <item class_id_reference="16" object_id="_85">
           <Value>

@@ -563,14 +563,14 @@
 						<id>25</id>
 						<name>tmp_9</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>29</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item class_id="11" tracking_level="0" version="0">
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second class_id="12" tracking_level="0" version="0">
 									<count>1</count>
 									<item_version>0</item_version>
@@ -606,14 +606,14 @@
 						<id>26</id>
 						<name>tmp_1</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>29</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -649,14 +649,14 @@
 						<id>27</id>
 						<name>tmp_2</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>29</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -692,14 +692,14 @@
 						<id>28</id>
 						<name>or_cond</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>29</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -735,14 +735,14 @@
 						<id>29</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>29</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -779,14 +779,14 @@
 						<id>31</id>
 						<name>tmp_3</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>30</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -822,14 +822,14 @@
 						<id>32</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>31</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1069,14 +1069,14 @@
 						<id>41</id>
 						<name>tmp_12</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>32</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1112,14 +1112,14 @@
 						<id>42</id>
 						<name>tmp_13</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>32</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1155,14 +1155,14 @@
 						<id>43</id>
 						<name>tmp_21</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>32</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1198,14 +1198,14 @@
 						<id>44</id>
 						<name>or_cond1</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>32</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1241,14 +1241,14 @@
 						<id>45</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>32</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1285,14 +1285,14 @@
 						<id>47</id>
 						<name>tmp_22</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>33</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1328,14 +1328,14 @@
 						<id>48</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>34</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1575,14 +1575,14 @@
 						<id>57</id>
 						<name>tmp_26</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>35</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1618,14 +1618,14 @@
 						<id>58</id>
 						<name>tmp_27</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>35</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1661,14 +1661,14 @@
 						<id>59</id>
 						<name>tmp_28</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>35</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1704,14 +1704,14 @@
 						<id>60</id>
 						<name>or_cond2</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>35</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1747,14 +1747,14 @@
 						<id>61</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>35</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1791,14 +1791,14 @@
 						<id>63</id>
 						<name>tmp_29</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>36</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -1834,14 +1834,14 @@
 						<id>64</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>37</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2081,14 +2081,14 @@
 						<id>73</id>
 						<name>tmp_33</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>38</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2124,14 +2124,14 @@
 						<id>74</id>
 						<name>tmp_34</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>38</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2167,14 +2167,14 @@
 						<id>75</id>
 						<name>tmp_35</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>38</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2210,14 +2210,14 @@
 						<id>76</id>
 						<name>or_cond3</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>38</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2253,14 +2253,14 @@
 						<id>77</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>38</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2297,14 +2297,14 @@
 						<id>79</id>
 						<name>tmp_36</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>39</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2340,14 +2340,14 @@
 						<id>80</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>40</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2413,14 +2413,14 @@
 						<id>83</id>
 						<name>tmp_15</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>42</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2456,14 +2456,14 @@
 						<id>84</id>
 						<name>tmp_16</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>42</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2499,14 +2499,14 @@
 						<id>85</id>
 						<name>tmp_17</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>42</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2542,14 +2542,14 @@
 						<id>86</id>
 						<name>tmp_18</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>42</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2585,14 +2585,14 @@
 						<id>87</id>
 						<name>tmp_19</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>42</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2628,14 +2628,14 @@
 						<id>88</id>
 						<name>tmp_20</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>42</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2671,14 +2671,14 @@
 						<id>89</id>
 						<name>tmp_37</name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>42</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2714,14 +2714,14 @@
 						<id>90</id>
 						<name></name>
 						<fileName>mixer.cpp</fileName>
-						<fileDirectory>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</fileDirectory>
+						<fileDirectory>/root/repo/new/ECE1373_GhostSynth/modules/mixer</fileDirectory>
 						<lineNumber>42</lineNumber>
 						<contextFuncName>mixer</contextFuncName>
 						<inlineStackInfo>
 							<count>1</count>
 							<item_version>0</item_version>
 							<item>
-								<first>/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer</first>
+								<first>/root/repo/new/ECE1373_GhostSynth/modules/mixer</first>
 								<second>
 									<count>1</count>
 									<item_version>0</item_version>
@@ -2895,7 +2895,7 @@
 					<bitwidth>32</bitwidth>
 				</Value>
 				<const_type>1</const_type>
-				<content>-0.05</content>
+				<content>-0.005</content>
 			</item>
 			<item class_id_reference="16" object_id="_84">
 				<Value>
@@ -2918,7 +2918,7 @@
 					<bitwidth>32</bitwidth>
 				</Value>
 				<const_type>1</const_type>
-				<content>0.05</content>
+				<content>0.005</content>
 			</item>
 			<item class_id_reference="16" object_id="_85">
 				<Value>

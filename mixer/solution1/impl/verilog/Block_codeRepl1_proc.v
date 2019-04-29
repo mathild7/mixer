@@ -389,7 +389,7 @@ mixer_fcmp_32ns_3dEe #(
     .dout_WIDTH( 1 ))
 mixer_fcmp_32ns_3dEe_U7(
     .din0(grp_fu_185_p0),
-    .din1(32'd3175926989),
+    .din1(32'd3148076810),
     .opcode(5'd4),
     .dout(grp_fu_185_p2)
 );
@@ -402,7 +402,7 @@ mixer_fcmp_32ns_3dEe #(
     .dout_WIDTH( 1 ))
 mixer_fcmp_32ns_3dEe_U8(
     .din0(grp_fu_191_p0),
-    .din1(32'd1028443341),
+    .din1(32'd1000593162),
     .opcode(5'd2),
     .dout(grp_fu_191_p2)
 );

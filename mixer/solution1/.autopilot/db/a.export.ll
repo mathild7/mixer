@@ -1,4 +1,4 @@
-; ModuleID = '/home/hildeb47/proj/ECE1373_GhostSynth/mods/mixer/mixer/solution1/.autopilot/db/a.o.2.bc'
+; ModuleID = '/root/repo/new/ECE1373_GhostSynth/modules/mixer/mixer/solution1/.autopilot/db/a.o.2.bc'
 target datalayout = "e-p:64:64:64-i1:8:8-i8:8:8-i16:16:16-i32:32:32-i64:64:64-f32:32:32-f64:64:64-v64:64:64-v128:128:128-a0:0:64-s0:64:64-f80:128:128-n8:16:32:64-S128"
 target triple = "x86_64-unknown-linux-gnu"
 
@@ -113,8 +113,8 @@ newFuncRoot:
   %notlhs = icmp ne i8 %tmp_5, -1
   %notrhs = icmp eq i23 %tmp, 0
   %tmp_8 = or i1 %notrhs, %notlhs
-  %tmp_9 = fcmp olt float %lev0_read, 0xBFA99999A0000000
-  %tmp_1 = fcmp ogt float %lev0_read, 0x3FA99999A0000000
+  %tmp_9 = fcmp olt float %lev0_read, 0xBF747AE140000000
+  %tmp_1 = fcmp ogt float %lev0_read, 0x3F747AE140000000
   %tmp_2 = or i1 %tmp_9, %tmp_1
   %or_cond = and i1 %tmp_8, %tmp_2
   br i1 %or_cond, label %0, label %._crit_edge
@@ -131,8 +131,8 @@ newFuncRoot:
   %notlhs2 = icmp ne i8 %tmp_4, -1
   %notrhs2 = icmp eq i23 %tmp_6, 0
   %tmp_11 = or i1 %notrhs2, %notlhs2
-  %tmp_12 = fcmp olt float %lev1_read, 0xBFA99999A0000000
-  %tmp_13 = fcmp ogt float %lev1_read, 0x3FA99999A0000000
+  %tmp_12 = fcmp olt float %lev1_read, 0xBF747AE140000000
+  %tmp_13 = fcmp ogt float %lev1_read, 0x3F747AE140000000
   %tmp_21 = or i1 %tmp_12, %tmp_13
   %or_cond1 = and i1 %tmp_11, %tmp_21
   br i1 %or_cond1, label %1, label %._crit_edge17
@@ -149,8 +149,8 @@ newFuncRoot:
   %notlhs4 = icmp ne i8 %tmp_23, -1
   %notrhs4 = icmp eq i23 %tmp_24, 0
   %tmp_25 = or i1 %notrhs4, %notlhs4
-  %tmp_26 = fcmp olt float %lev2_read, 0xBFA99999A0000000
-  %tmp_27 = fcmp ogt float %lev2_read, 0x3FA99999A0000000
+  %tmp_26 = fcmp olt float %lev2_read, 0xBF747AE140000000
+  %tmp_27 = fcmp ogt float %lev2_read, 0x3F747AE140000000
   %tmp_28 = or i1 %tmp_26, %tmp_27
   %or_cond2 = and i1 %tmp_25, %tmp_28
   br i1 %or_cond2, label %2, label %._crit_edge18
@@ -167,8 +167,8 @@ newFuncRoot:
   %notlhs6 = icmp ne i8 %tmp_30, -1
   %notrhs6 = icmp eq i23 %tmp_31, 0
   %tmp_32 = or i1 %notrhs6, %notlhs6
-  %tmp_33 = fcmp olt float %lev3_read, 0xBFA99999A0000000
-  %tmp_34 = fcmp ogt float %lev3_read, 0x3FA99999A0000000
+  %tmp_33 = fcmp olt float %lev3_read, 0xBF747AE140000000
+  %tmp_34 = fcmp ogt float %lev3_read, 0x3F747AE140000000
   %tmp_35 = or i1 %tmp_33, %tmp_34
   %or_cond3 = and i1 %tmp_32, %tmp_35
   br i1 %or_cond3, label %3, label %._crit_edge19

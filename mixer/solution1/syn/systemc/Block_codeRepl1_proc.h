@@ -292,8 +292,8 @@ struct Block_codeRepl1_proc : public sc_module {
     static const sc_lv<32> ap_const_lv32_B;
     static const sc_lv<32> ap_const_lv32_C;
     static const sc_lv<32> ap_const_lv32_11;
-    static const sc_lv<32> ap_const_lv32_BD4CCCCD;
-    static const sc_lv<32> ap_const_lv32_3D4CCCCD;
+    static const sc_lv<32> ap_const_lv32_BBA3D70A;
+    static const sc_lv<32> ap_const_lv32_3BA3D70A;
     static const sc_lv<32> ap_const_lv32_17;
     static const sc_lv<32> ap_const_lv32_1E;
     static const sc_lv<8> ap_const_lv8_FF;

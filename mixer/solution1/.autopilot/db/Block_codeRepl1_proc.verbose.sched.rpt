@@ -3,7 +3,7 @@
 ================================================================
 == Vivado HLS Report for 'Block_codeRepl1_proc'
 ================================================================
-* Date:           Tue Apr 23 23:53:36 2019
+* Date:           Mon Apr 29 21:45:07 2019
 
 * Version:        2017.2 (Build 1909853 on Thu Jun 15 18:55:24 MDT 2017)
 * Project:        mixer
@@ -122,10 +122,10 @@ ST_1: lev0_read (18)  [1/1] 0.00ns
 newFuncRoot:8  %lev0_read = call float @_ssdm_op_Read.ap_auto.float(float %lev0)
 
 ST_1: tmp_9 (25)  [1/1] 6.79ns  loc: mixer.cpp:29
-newFuncRoot:15  %tmp_9 = fcmp olt float %lev0_read, 0xBFA99999A0000000
+newFuncRoot:15  %tmp_9 = fcmp olt float %lev0_read, 0xBF747AE140000000
 
 ST_1: tmp_1 (26)  [1/1] 6.79ns  loc: mixer.cpp:29
-newFuncRoot:16  %tmp_1 = fcmp ogt float %lev0_read, 0x3FA99999A0000000
+newFuncRoot:16  %tmp_1 = fcmp ogt float %lev0_read, 0x3F747AE140000000
 
 
  <State 2>: 6.86ns
@@ -192,10 +192,10 @@ ST_3: StgValue_46 (32)  [1/1] 1.59ns  loc: mixer.cpp:31
 :1  br label %._crit_edge
 
 ST_3: tmp_12 (41)  [1/1] 6.79ns  loc: mixer.cpp:32
-._crit_edge:7  %tmp_12 = fcmp olt float %lev1_read, 0xBFA99999A0000000
+._crit_edge:7  %tmp_12 = fcmp olt float %lev1_read, 0xBF747AE140000000
 
 ST_3: tmp_13 (42)  [1/1] 6.79ns  loc: mixer.cpp:32
-._crit_edge:8  %tmp_13 = fcmp ogt float %lev1_read, 0x3FA99999A0000000
+._crit_edge:8  %tmp_13 = fcmp ogt float %lev1_read, 0x3F747AE140000000
 
 
  <State 4>: 6.86ns
@@ -241,10 +241,10 @@ ST_5: StgValue_61 (48)  [1/1] 1.59ns  loc: mixer.cpp:34
 :1  br label %._crit_edge17
 
 ST_5: tmp_26 (57)  [1/1] 6.79ns  loc: mixer.cpp:35
-._crit_edge17:7  %tmp_26 = fcmp olt float %lev2_read, 0xBFA99999A0000000
+._crit_edge17:7  %tmp_26 = fcmp olt float %lev2_read, 0xBF747AE140000000
 
 ST_5: tmp_27 (58)  [1/1] 6.79ns  loc: mixer.cpp:35
-._crit_edge17:8  %tmp_27 = fcmp ogt float %lev2_read, 0x3FA99999A0000000
+._crit_edge17:8  %tmp_27 = fcmp ogt float %lev2_read, 0x3F747AE140000000
 
 
  <State 6>: 6.86ns
@@ -290,10 +290,10 @@ ST_7: StgValue_76 (64)  [1/1] 1.59ns  loc: mixer.cpp:37
 :1  br label %._crit_edge18
 
 ST_7: tmp_33 (73)  [1/1] 6.79ns  loc: mixer.cpp:38
-._crit_edge18:7  %tmp_33 = fcmp olt float %lev3_read, 0xBFA99999A0000000
+._crit_edge18:7  %tmp_33 = fcmp olt float %lev3_read, 0xBF747AE140000000
 
 ST_7: tmp_34 (74)  [1/1] 6.79ns  loc: mixer.cpp:38
-._crit_edge18:8  %tmp_34 = fcmp ogt float %lev3_read, 0x3FA99999A0000000
+._crit_edge18:8  %tmp_34 = fcmp ogt float %lev3_read, 0x3F747AE140000000
 
 
  <State 8>: 6.86ns

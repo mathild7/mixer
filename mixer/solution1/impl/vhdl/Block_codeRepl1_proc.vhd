@@ -87,8 +87,8 @@ architecture behav of Block_codeRepl1_proc is
     constant ap_const_lv32_B : STD_LOGIC_VECTOR (31 downto 0) := "00000000000000000000000000001011";
     constant ap_const_lv32_C : STD_LOGIC_VECTOR (31 downto 0) := "00000000000000000000000000001100";
     constant ap_const_lv32_11 : STD_LOGIC_VECTOR (31 downto 0) := "00000000000000000000000000010001";
-    constant ap_const_lv32_BD4CCCCD : STD_LOGIC_VECTOR (31 downto 0) := "10111101010011001100110011001101";
-    constant ap_const_lv32_3D4CCCCD : STD_LOGIC_VECTOR (31 downto 0) := "00111101010011001100110011001101";
+    constant ap_const_lv32_BBA3D70A : STD_LOGIC_VECTOR (31 downto 0) := "10111011101000111101011100001010";
+    constant ap_const_lv32_3BA3D70A : STD_LOGIC_VECTOR (31 downto 0) := "00111011101000111101011100001010";
     constant ap_const_lv32_17 : STD_LOGIC_VECTOR (31 downto 0) := "00000000000000000000000000010111";
     constant ap_const_lv32_1E : STD_LOGIC_VECTOR (31 downto 0) := "00000000000000000000000000011110";
     constant ap_const_lv8_FF : STD_LOGIC_VECTOR (7 downto 0) := "11111111";
@@ -459,7 +459,7 @@ begin
         dout_WIDTH => 1)
     port map (
         din0 => grp_fu_185_p0,
-        din1 => ap_const_lv32_BD4CCCCD,
+        din1 => ap_const_lv32_BBA3D70A,
         opcode => ap_const_lv5_4,
         dout => grp_fu_185_p2);
 
@@ -472,7 +472,7 @@ begin
         dout_WIDTH => 1)
     port map (
         din0 => grp_fu_191_p0,
-        din1 => ap_const_lv32_3D4CCCCD,
+        din1 => ap_const_lv32_3BA3D70A,
         opcode => ap_const_lv5_2,
         dout => grp_fu_191_p2);
 

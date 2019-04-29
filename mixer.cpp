@@ -26,16 +26,16 @@ void mixer(
 #pragma HLS INTERFACE ap_ctrl_none port=return
 
 	float tmp[4] = {0.0f, 0.0f, 0.0f, 0.0f};
-	if (lev0 < -0.05f || lev0 > 0.05f) {
+	if (lev0 < -0.005f || lev0 > 0.005f) {
 		in0 >> tmp[0];
 	}
-	if (lev1 < -0.05f || lev1 > 0.05f) {
+	if (lev1 < -0.005f || lev1 > 0.005f) {
 		in1 >> tmp[1];
 	}
-	if (lev2 < -0.05f || lev2 > 0.05f) {
+	if (lev2 < -0.005f || lev2 > 0.005f) {
 		in2 >> tmp[2];
 	}
-	if (lev3 < -0.05f || lev3 > 0.05f) {
+	if (lev3 < -0.005f || lev3 > 0.005f) {
 		in3 >> tmp[3];
 	}
 

@@ -58,8 +58,8 @@ const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_7 = "111";
 const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_B = "1011";
 const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_C = "1100";
 const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_11 = "10001";
-const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_BD4CCCCD = "10111101010011001100110011001101";
-const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_3D4CCCCD = "111101010011001100110011001101";
+const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_BBA3D70A = "10111011101000111101011100001010";
+const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_3BA3D70A = "111011101000111101011100001010";
 const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_17 = "10111";
 const sc_lv<32> Block_codeRepl1_proc::ap_const_lv32_1E = "11110";
 const sc_lv<8> Block_codeRepl1_proc::ap_const_lv8_FF = "11111111";
@@ -928,11 +928,11 @@ void Block_codeRepl1_proc::thread_ap_var_for_const0() {
 }
 
 void Block_codeRepl1_proc::thread_ap_var_for_const1() {
-    ap_var_for_const1 = ap_const_lv32_BD4CCCCD;
+    ap_var_for_const1 = ap_const_lv32_BBA3D70A;
 }
 
 void Block_codeRepl1_proc::thread_ap_var_for_const3() {
-    ap_var_for_const3 = ap_const_lv32_3D4CCCCD;
+    ap_var_for_const3 = ap_const_lv32_3BA3D70A;
 }
 
 void Block_codeRepl1_proc::thread_ap_var_for_const2() {
